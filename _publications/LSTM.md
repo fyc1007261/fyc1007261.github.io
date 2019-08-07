@@ -4,13 +4,13 @@ collection: publications
 permalink: /publication/LSTM-solar-forecasting/
 excerpt: 'Designed, built and trained an LSTM solar forecasting model which provided accurate predictions.'
 date: 2019-07-15
-venue: '--'
+#venue: '(Under review) IEEE Transactions on Sustainable Energy'
 #paperurl: ''
 ---
 
 
 
-- Under review by IEEE Transactions on Sustainable Energy.
+- .
 
 - Designed, built and trained an LSTM solar forecasting model which provided accurate predictions.
 
