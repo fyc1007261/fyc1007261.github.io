@@ -9,6 +9,8 @@ redirect_from:
 
 {% include base_path %}
 
+[Download PDF Version Here](http://fyc1007261.github.io/files/YifanCai.pdf)
+
 Education
 ======
 * B.S. in Software Engineering, Shanghai Jiao Tong University, 2016-2020
@@ -39,4 +41,3 @@ Publications
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
 
-* 
