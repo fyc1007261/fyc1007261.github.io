@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-[Download PDF Version Here](http://fyc1007261.github.io/files/YifanCai.pdf)
+[Download PDF Version Here](https://fyc1007261.github.io/files/YifanCai.pdf)
 
 Education
 ======
