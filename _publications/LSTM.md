@@ -4,12 +4,13 @@ collection: publications
 permalink: /publication/LSTM-solar-forecasting/
 excerpt: 'Designed, built and trained an LSTM solar forecasting model which provided accurate predictions.'
 date: 2019-07-15
-venue: '(Under review) IEEE Transactions on Sustainable Energy'
+venue: 'IEEE Transactions on Sustainable Energy'
+status: 'Under review by'
 #paperurl: ''
 ---
 
 
-- Designed, built and trained an LSTM solar forecasting model which provided accurate predictions.
+In this paper, we designed, built and trained an LSTM solar forecasting model which provided accurate predictions.
 
 
 
@@ -18,7 +19,3 @@ venue: '(Under review) IEEE Transactions on Sustainable Energy'
 Xianglei Huang, Xiuhong Chen, **Yifan Cai**, Haoming Shen, Jiayue Lu 
 
 
-
-IEEE Transactions on Sustainable Energy (under review)
-
-Designed, built and trained an LSTM solar forecasting model which provided accurate predictions.
