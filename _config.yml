@@ -8,7 +8,7 @@
 # Site Settings
 locale                   : "en-US"
 title                    : "Yifan Cai"
-title_separator          : " | "
+title_separator          : "|"
 name                     : &name "Yifan Cai"
 description              : &description "personal description"
 url                      : https://fyc1007261.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
