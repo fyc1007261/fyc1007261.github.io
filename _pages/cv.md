@@ -31,6 +31,7 @@ Research experience
   * Took a first step towards understanding how disaggregated data centers might affect the design of relational databases, discussed the potential advantages and drawbacks in the context of data processing, and outlined research challenges in addressing them.
   * Modified the kernel of LegoOS (A disaggregated operating system published in OSDI’18) and deployed it on cloud machines; wrote code of nested loop join, hash join as well as grace hash join and tested their performance on disaggregated operating systems.
   * Designed benchmarks and discovered where the performance bottleneck of disaggregated systems is.
+  * Supervisor: Prof. Vincent Liu
 * Research Intern (Aug 2018 - Sep 2018)
   * University of Michigan
   * Built an LSTM-based solar forecasting system on keras deep learning library
