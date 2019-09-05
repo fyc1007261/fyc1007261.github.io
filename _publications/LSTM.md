@@ -16,6 +16,8 @@ In this paper, we designed, built and trained an LSTM solar forecasting model wh
 
 ### Authors 
 
-Xianglei Huang, Xiuhong Chen, **Yifan Cai**, Haoming Shen, Jiayue Lu 
+Xianglei Huang\*, Xiuhong Chen\*, **Yifan Cai**, Haoming Shen\*, Jiayue Lu\*
+
+\* University of Michigan
 
 
