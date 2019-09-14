@@ -4,7 +4,7 @@ collection: publications
 permalink: /publication/CDC18/
 excerpt: 'A data aggregation protocol designed for distributed network systems'
 date: 2018-12-16
-venue: 'IEEE Conference on Decision and Control'
+venue: 'IEEE Conference on Decision and Control, 2018'
 paperurl: 'https://fyc1007261.github.io/files/cdc18_main.pdf'
 status: 'Published in'
 ---
