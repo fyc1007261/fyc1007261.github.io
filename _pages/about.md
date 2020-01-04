@@ -10,9 +10,11 @@ redirect_from:
 
 ### About Me
 
-I am Yifan Cai, a senior undergraduate student at Shanghai Jiao Tong University. My research interest is in distributed systems. I have been working with Prof. [Jianping He](https://jianping-he.github.io/) on designing data aggregation protocols in distributed network systems. A paper was published in IEEE CDC 2018. 
+I am Yifan Cai, a senior undergraduate student at Shanghai Jiao Tong University. My research interest is in operating systems, database and networks. 
 
-Now I'm working with Prof. [Vincent Liu](http://vincen.tl/) at University of Pennsylvania as a research intern. We are trying to design applications which are able to run efficiently on disaggregated systems. A paper has been accepted by CIDR 2020 and we are still working on it.
+I worked with Prof. [Jianping He](https://jianping-he.github.io/) on designing data aggregation protocols in distributed network systems. A paper was published in IEEE CDC 2018. 
+
+From July 2017 to December 2017, I worked with Prof. [Vincent Liu](http://vincen.tl/) at the University of Pennsylvania as a research intern. We focused on designing applications which are able to run efficiently on disaggregated systems. A paper has been accepted by CIDR 2020.
 
 I am now looking forward to a graduate program for 2020 fall. 
 
