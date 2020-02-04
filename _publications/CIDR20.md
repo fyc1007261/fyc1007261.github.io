@@ -5,7 +5,7 @@ permalink: /publication/Disaggregated-RDBMS/
 excerpt: ''
 date: 2020-01-12
 venue: 'Conference on Innovative Data Systems Research (CIDR), 2020'
-status: 'To appear at'
+status: 'In'
 paperurl: 'http://fyc1007261.github.io/files/DDCCIDR20.pdf'
 ---
 
