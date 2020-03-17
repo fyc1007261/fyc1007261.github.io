@@ -16,5 +16,5 @@ I worked with Prof. [Jianping He](https://jianping-he.github.io/) on designing d
 
 From July 2019 to December 2019, I worked with Prof. [Vincent Liu](http://vincen.tl/) at the University of Pennsylvania as a research intern. We focused on designing applications which are able to run efficiently on disaggregated systems. A paper has been accepted by CIDR 2020.
 
-I am now looking forward to a graduate program for 2020 fall. 
+I will be joining the [University of Pennsylvania](https://www.upenn.edu) in fall, 2020.
 
