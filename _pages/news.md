@@ -10,6 +10,7 @@ author_profile: true
 
 ### 2020
 
+- *(May)* Paper accepted by VLDB 2020!
 - *(March)* I will join the [University of Pennsylvania](www.upenn.edu) for my Ph.D. program, and will be advised by Prof. [Andreas Haeberlen](https://www.cis.upenn.edu/~ahae/) and Prof. [Linh Thi Xuan Phan](https://www.cis.upenn.edu/~linhphan/).
 
 ### 2019
