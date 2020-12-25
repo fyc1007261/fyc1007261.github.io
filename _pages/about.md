@@ -10,7 +10,7 @@ redirect_from:
 
 ### About Me
 
-I am Yifan Cai, a first-year Ph.D. student at the University of Pennsylvania, advised by Prof. [Adreas Haeberlen](https://www.cis.upenn.edu/~ahae/) and Prof. [Linh Thi Xuan Phan](https://www.cis.upenn.edu/~linhphan/). I got my bachelor's degree from Shanghai Jiao Tong University in 2020. My research interest is in operating systems, database and networks. 
+I am Yifan Cai, a first-year Ph.D. student at the University of Pennsylvania, advised by Prof. [Andreas Haeberlen](https://www.cis.upenn.edu/~ahae/) and Prof. [Linh Thi Xuan Phan](https://www.cis.upenn.edu/~linhphan/). I got my bachelor's degree from Shanghai Jiao Tong University in 2020. My research interest is in operating systems, database and networks. 
 
 I worked with Prof. [Jianping He](https://iwin-fins.com) on designing data aggregation protocols in distributed network systems. A paper was published in IEEE CDC 2018. 
 
