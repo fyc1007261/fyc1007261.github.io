@@ -5,8 +5,8 @@ permalink: /publication/JP-Meteoro20/
 excerpt: ''
 date: 2020-07-31
 venue: 'Journal of the Meteorological Society of Japan'
-status: 'To appear at'
-paperurl: 'http://www.yifancai.tech/publications/'
+status: 'In'
+paperurl: 'https://www.jstage.jst.go.jp/article/jmsj/98/5/98_2020-048/_pdf/-char/en'
 ---
 
 ### Authors 
