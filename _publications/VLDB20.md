@@ -5,8 +5,8 @@ permalink: /publication/VLDB2020/
 excerpt: ''
 date: 2020-08-31
 venue: 'International Conference on Very Large Data Bases, VLDB 2020'
-status: 'To appear at'
-paperurl: 'http://www.yifancai.tech/publications/'
+status: 'In'
+paperurl: 'https://www.cis.upenn.edu/~sga001/papers/ddc-vldb20.pdf'
 ---
 
 ### Authors 
