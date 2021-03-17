@@ -7,9 +7,12 @@ author_profile: true
 ---
 
 {% include base_path %}
+### 2021
+- *(March)* VeriDB accepted by SIGMOD 2021!
+
 
 ### 2020
-
+- *(July)* Research internship at Database and Storage Lab, DAMO Academy, Alibaba Group. Advised by Dr. [Sheng Wang](https://wangsheng1001.github.io/) and Dr. [Wenchao Zhou](http://people.cs.georgetown.edu/~wzhou/). 
 - *(May)* Paper accepted by VLDB 2020!
 - *(March)* I will join the [University of Pennsylvania](www.upenn.edu) for my Ph.D. program, and will be advised by Prof. [Andreas Haeberlen](https://www.cis.upenn.edu/~ahae/) and Prof. [Linh Thi Xuan Phan](https://www.cis.upenn.edu/~linhphan/).
 
