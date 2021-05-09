@@ -7,6 +7,7 @@ date: 2018-12-16
 venue: 'IEEE Conference on Decision and Control, 2018'
 paperurl: 'http://fyc1007261.github.io/files/cdc18_main.pdf'
 status: 'In'
+authors: '<b>Yifan Cai</b>, Jianping He, Wenbin Yu, and Xinping Guan'
 ---
 
 
