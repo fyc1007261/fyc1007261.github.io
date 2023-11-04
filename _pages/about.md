@@ -10,9 +10,9 @@ redirect_from:
 
 ### About Me
 
-I am Yifan Cai, a second-year Ph.D. student advised by Prof. [Andreas Haeberlen](https://haeberlen.cis.upenn.edu/)  and Prof. [Linh Thi Xuan Phan](https://www.cis.upenn.edu/~linhphan/) at the University of Pennsylvania. I got my bachelor's degree from Shanghai Jiao Tong University in 2020. My research interest is in various aspects of distributed systems. 
+I am Yifan Cai, a third-year Ph.D. student advised by Prof. [Linh Thi Xuan Phan](https://www.cis.upenn.edu/~linhphan/) at the University of Pennsylvania. I got my bachelor's degree from Shanghai Jiao Tong University in 2020. My research interest is in various aspects of systems, including performance, security, and reliability.
 
-During the COVID time in 2020, I worked as an intern at Alibaba DAMO Academy supervised by Prof. [Wenchao Zhou](https://people.cs.georgetown.edu/~wzhou/) and Dr. [Sheng Wang](https://wangsheng1001.github.io/). We focused on the integrity of cloud database systems.
+During the pandemic in 2020, I worked as an intern at Alibaba DAMO Academy supervised by Prof. [Wenchao Zhou](https://people.cs.georgetown.edu/~wzhou/) and Dr. [Sheng Wang](https://wangsheng1001.github.io/). We focused on the integrity of cloud database systems.
 
 Before that, I was a research intern at Penn advised by Prof. [Vincent Liu](https://vincen.tl) in 2019. We worked on discovering the impact of resource disaggregation on database systems.
 
