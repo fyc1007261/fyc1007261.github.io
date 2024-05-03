@@ -7,6 +7,9 @@ author_profile: true
 ---
 
 {% include base_path %}
+### 2024
+- *(June)* The UEM project with Alibaba Cloud will appear in SIGMOD 2024, Santiago, Chile.
+
 ### 2023
 - *(May)* Intership at Alibaba Cloud, working on data secuity in heterogeneous memory architectures. Advised by Dr. [Sheng Wang](https://wangsheng1001.github.io/) and Dr. [Mo Sha](https://desert0616.github.io/). 
 
