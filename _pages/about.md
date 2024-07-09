@@ -12,7 +12,9 @@ redirect_from:
 
 I am Yifan Cai, a third-year Ph.D. student advised by Prof. [Linh Thi Xuan Phan](https://www.cis.upenn.edu/~linhphan/) at the University of Pennsylvania. I got my bachelor's degree from Shanghai Jiao Tong University in 2020. My research interest is in various aspects of systems, including performance, security, and reliability.
 
-During the pandemic in 2020, I worked as an intern at Alibaba DAMO Academy supervised by Prof. [Wenchao Zhou](https://people.cs.georgetown.edu/~wzhou/) and Dr. [Sheng Wang](https://wangsheng1001.github.io/). We focused on the integrity of cloud database systems.
+I am working as a research intern at Roblox research in the summer of 2024, on improving the scalability of gaming experiences. 
+
+In 2020 and 2023, I worked as an intern (twice) in the database and storage lab @ Alibaba Cloud with Dr. [Wenchao Zhou](https://people.cs.georgetown.edu/~wzhou/), Dr. [Sheng Wang](https://wangsheng1001.github.io/), and Dr. [Sha Mo](https://desert0616.github.io/). We focused on the security aspects of cloud computing.
 
 Before that, I was a research intern at Penn advised by Prof. [Vincent Liu](https://vincen.tl) in 2019. We worked on discovering the impact of resource disaggregation on database systems.
 
