@@ -6,7 +6,7 @@ excerpt: ''
 date: 2024-11-07
 venue: 'International Conference on Real-Time Networks and Systems (RTNS)'
 status: 'To appear at'
-paperurl: ''
+paperurl: 'https://www.yifancai.tech/publications'
 authors: '<b>Yifan Cai</b>, Linh Thi Xuan Phan, and P.S. Thiagarajan'
 ---
 
