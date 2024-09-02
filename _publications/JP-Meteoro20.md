@@ -4,7 +4,7 @@ collection: publications
 permalink: /publication/JP-Meteoro20/
 excerpt: ''
 date: 2020-07-31
-venue: 'Journal of the Meteorological Society of Japan'
+venue: 'Journal of the Meteorological Society of Japan, Ser. II, 2020, 98(5): 945-957'
 status: 'In'
 paperurl: 'https://www.jstage.jst.go.jp/article/jmsj/98/5/98_2020-048/_pdf/-char/en'
 authors: 'Xiuhong Chen, Xianglei Huang, <b>Yifan Cai</b>, Haomin Shen, Jiayue Lu'
