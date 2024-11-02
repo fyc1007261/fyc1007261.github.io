@@ -10,7 +10,7 @@ redirect_from:
 
 ### About Me
 
-I am Yifan Cai, a third-year Ph.D. student advised by Prof. [Linh Thi Xuan Phan](https://www.cis.upenn.edu/~linhphan/) at the University of Pennsylvania. I got my bachelor's degree from Shanghai Jiao Tong University in 2020. My research interest is in various aspects of systems, including performance, security, and reliability.
+I am Yifan Cai, a fourth-year Ph.D. student advised by Prof. [Linh Thi Xuan Phan](https://www.cis.upenn.edu/~linhphan/) at the University of Pennsylvania. I got my bachelor's degree from Shanghai Jiao Tong University in 2020. My research interest is in various aspects of systems, including performance, security, and reliability.
 
 I am working as a research intern at Roblox research in the summer of 2024, on improving the scalability of gaming experiences. 
 
