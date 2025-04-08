@@ -4,7 +4,7 @@ collection: publications
 permalink: /publication/RoboRebound-EuroSys25/
 excerpt: ''
 date: 2025-03-30
-venue: 'Twentieth European Conference on Computer Systems (EuroSys ’25),'
+venue: 'European Conference on Computer Systems (EuroSys), 2025'
 status: 'In'
 paperurl: 'https://www.yifancai.tech/files/RoboRebound-Eurosys25.pdf'
 authors: 'Neeraj Gandhi, <b>Yifan Cai</b>, Andreas Haeberlen, and Linh Thi Xuan Phan'
