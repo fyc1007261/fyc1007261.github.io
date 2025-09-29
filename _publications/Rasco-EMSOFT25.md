@@ -4,7 +4,7 @@ collection: publications
 permalink: /publication/Rasco-EMSOFT25/
 excerpt: ''
 date: 2025-09-28
-venue: 'ACM SIGBED International Conference on Embedded Software (EMSOFT), 2025'
+venue: 'ACM Transactions on Embedded Computing Systems (TECS), <br>Special issue of ACM SIGBED International Conference on Embedded Software (EMSOFT), 2025 '
 status: 'In'
 paperurl: 'https://www.yifancai.tech/files/RASCO-EMSOFT25.pdf'
 authors: 'Abigail Eisenklam, Robert Gifford, Georgiy A. Bondar, <b>Yifan Cai</b>, Tushar Sial, Linh Thi Xuan Phan, and Abhishek Halder'
