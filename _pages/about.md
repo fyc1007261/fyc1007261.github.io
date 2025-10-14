@@ -29,5 +29,5 @@ During undergraduate, I worked as a research intern at Penn advised by Prof. [Vi
 - Teaching 
 	- Teaching assistant for CIS 505 Software Systems (2021 Fall, 2022 Fall)
 - Journal Review
-	- IEEE Transactions on Information Forensics and Security publication information (TIFS)
+	- IEEE Transactions on Information Forensics and Security (TIFS)
 	- IEEE Internet of Things Journal (IoTJ)
