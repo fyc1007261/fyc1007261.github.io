@@ -14,8 +14,8 @@ I am Yifan Cai, a fifth-year Ph.D. student advised by Prof. [Linh Thi Xuan Phan]
 
 My projects mainly focus on achieving **safety (predictability in performance) and security** in resource-constrained systems, including traditional distributed systems and real-time cyber-physical systems (CPS). My past and present projects include but are not limited to:
 - Ensuring data confidentiality and integrity across heterogeneous memory tiers
-- Protecting cyber-physical systems against Byzantine faults, with theoretical worst-case guarantees
-- Revealing and exploiting scheduling-based timing side channels in IoT and embedded platforms
+- Byzantine fault-resilient cyber-physical systems, with theoretical worst-case guarantees
+- Revealing and exploiting scheduling-based timing side channels in IoT/embedded platforms
 - Analyzing performance (e.g., deadline violations) in complex systems
 
 **I am looking for postdoc opportunities**. Feel free to reach out to me if you are interested in my work!
