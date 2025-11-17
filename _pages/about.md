@@ -18,7 +18,7 @@ My projects mainly focus on achieving **safety (predictability in performance) a
 - Revealing and exploiting scheduling-based side channels in IoT/embedded platforms
 - Analyzing performance (e.g., deadline violations) in complex systems
 
-**I am looking for postdoc opportunities**. Feel free to reach out to me if you are interested in my work, or check out my [CV](./files/YifanCai.pdf) and [publications](./publication)!
+**I am looking for postdoc opportunities**. Feel free to reach out to me if you are interested in my work, or check out my [CV](./files/YifanCai.pdf) and [publications](./publications)!
 
 ### Experience
 
