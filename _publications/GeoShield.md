@@ -5,7 +5,7 @@ permalink: /publication/GeoShield/
 excerpt: ''
 date: 2025-11-17
 venue: ''
-status: 'In submission. The title has been changed for anonymity requirements.'
+status: 'In submission. The title has been changed for anonymity requirements'
 paperurl: ''
 authors: '<b>Yifan Cai</b> and Linh Thi Xuan Phan'
 ---
