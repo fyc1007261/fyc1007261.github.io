@@ -30,8 +30,10 @@ During undergraduate, I worked as a research intern at Penn advised by Prof. [Vi
 
 
 ### Teaching and Services
-- Teaching 
-	- Teaching assistant for CIS 505 Software Systems (2021 Fall, 2022 Fall)
+- Teaching assistant, University of Pennsylvania
+	-  CIS 505 Software Systems, 2021 Fall 
+	-  CIS 505 Software Systems, 2022 Fall 
+		
 - Journal Review
 	- IEEE Transactions on Information Forensics and Security (TIFS)
 	- IEEE Internet of Things Journal (IoTJ)
