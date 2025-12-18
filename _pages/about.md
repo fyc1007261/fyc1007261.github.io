@@ -12,13 +12,16 @@ redirect_from:
 
 I am Yifan Cai, a fifth-year Ph.D. student advised by Prof. [Linh Thi Xuan Phan](https://www.cis.upenn.edu/~linhphan/) at the University of Pennsylvania. I got my bachelor's degree from the School of Software at Shanghai Jiao Tong University in 2020. 
 
+**I am looking for postdoc opportunities starting Summer/Fall 2026**. 
+
 My projects mainly focus on achieving **safety (predictability in performance) and security** in resource-constrained systems, including traditional distributed systems and real-time cyber-physical systems (CPS). My past and present projects include but are not limited to:
 - Ensuring data confidentiality and integrity across heterogeneous memory tiers
 - Byzantine fault-resilient cyber-physical systems, with theoretical worst-case guarantees
 - Revealing and exploiting scheduling-based side channels in IoT/embedded platforms
 - Analyzing performance (e.g., deadline violations) in complex systems
 
-**I am looking for postdoc opportunities**. Feel free to reach out to me if you are interested in my work, or check out my [CV](./files/YifanCai.pdf) and [publications](./publications)!
+Here is an overview of my projects. Feel free to reach out to me if you are interested in my work, or check out my [CV](./files/YifanCai.pdf) and [publications](./publications)!
+![alt text](../files/proj-overview.svg)
 
 ### Experience
 
