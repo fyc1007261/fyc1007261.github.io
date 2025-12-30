@@ -14,7 +14,7 @@ I am Yifan Cai, a fifth-year Ph.D. student advised by Prof. [Linh Thi Xuan Phan]
 
 **I am looking for postdoc opportunities starting Summer/Fall 2026**. 
 
-My projects mainly focus on achieving **safety (predictability in performance) and security** in resource-constrained systems, including traditional distributed systems and real-time cyber-physical systems (CPS). My past and present projects include but are not limited to:
+My projects mainly focus on achieving **safety (timely execution of critical tasks)** and **security** in resource-constrained systems, including traditional distributed systems and real-time cyber-physical systems (CPS). My past and present projects include but are not limited to:
 - Ensuring data confidentiality and integrity across memory tiers *(VeriDB and UEM)*
 - Byzantine fault-resilient cyber-physical systems *(GeoShield)*
 - Scheduling-based side channels in IoT/embedded platforms *(STAMP)*
