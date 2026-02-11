@@ -42,3 +42,4 @@ During undergraduate, I worked as a research intern at Penn advised by Prof. [Vi
 	- IEEE Transactions on Information Forensics and Security (TIFS)
 	- IEEE Internet of Things Journal (IoT-J)
 	- ACM Transactions on Embedded Computing Systems (TECS)
+	- Computer Networks
