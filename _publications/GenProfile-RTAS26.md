@@ -1,5 +1,4 @@
-\---
-
+---
 title: "Generative Profiling for Soft Real-Time Systems and its Applications to Resource Allocation"
 collection: publications
 permalink: /publication/GenProfile-RTAS26/
