@@ -10,9 +10,10 @@ redirect_from:
 
 ### About Me
 
-I am Yifan Cai, a fifth-year Ph.D. student advised by Prof. [Linh Thi Xuan Phan](https://www.cis.upenn.edu/~linhphan/) at the University of Pennsylvania. I got my bachelor's degree from the School of Software at Shanghai Jiao Tong University in 2020. 
+I am Yifan Cai, currently a postdoctoral researcher at the [University of British Columbia](https://www.ubc.ca/), supervised by Prof. [Karthik Pattabiraman](https://people.ece.ubc.ca/~karthikp/) and Prof. [Aastha Mehta](https://aasthakm.github.io/). 
+I got my PhD in [Computer and Information Science](https://www.cis.upenn.edu/) at the [University of Pennsylvania](https://www.upenn.edu/) in 2026, advised by Prof. [Linh Thi Xuan Phan](https://www.cis.upenn.edu/~linhphan/). I got my bachelor's degree from the School of Software at Shanghai Jiao Tong University in 2020. 
 
-My projects mainly focus on achieving **safety (timely execution of critical tasks)** and **security** in resource-constrained systems, including traditional distributed systems and real-time cyber-physical systems (CPS). My past and present projects include but are not limited to:
+My projects mainly focus on achieving **timeliness** and **security** in resource-constrained systems, including traditional distributed systems and real-time cyber-physical systems (CPS). My past and present projects include but are not limited to:
 - Ensuring data confidentiality and integrity across memory tiers *(VeriDB and UEM)*
 - Byzantine fault-resilient cyber-physical systems *(GeoShield)*
 - Scheduling-based side channels in IoT/embedded platforms *(STAMP)*
