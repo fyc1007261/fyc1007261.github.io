@@ -6,7 +6,7 @@ excerpt: ''
 date: 2026-05-12
 venue: '32nd IEEE Real-Time and Embedded Technology and Applications Symposium (RTAS), 2026'
 status: 'In'
-paperurl: ''
+paperurl: 'https://arxiv.org/pdf/2604.01441'
 authors: 'Georgiy A. Bondar, Abigail Eisenklam, <b>Yifan Cai</b>, Robert Gifford, Tushar Sial, Linh Thi Xuan Phan, and Abhishek Halder'
 ---
 
